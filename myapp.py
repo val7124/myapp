@@ -344,6 +344,34 @@ vocabulary_list = [
         "meaning": "權限",
         "example": "Change file permissions using the chmod command in Linux.",
     },
+{
+        "word": "pop quiz",
+        "pos": "n.",
+        "phonetic": "/pɑːp kwɪz/",
+        "meaning": "突擊測驗、隨堂抽考",
+        "example": "The teacher gave us a pop quiz on yesterday's grammar lesson.",
+    },
+    {
+        "word": "instant",
+        "pos": "adj./n.",
+        "phonetic": "/ˈɪnstənt/",
+        "meaning": "立即的、即時的",
+        "example": "Cloud storage provides instant access to your files from any device.",
+    },
+    {
+        "word": "payee",
+        "pos": "n.",
+        "phonetic": "/ˌpeɪˈiː/",
+        "meaning": "受款人、收款人",
+        "example": "Please make sure the payee's name on the check is correct.",
+    },
+    {
+        "word": "frequently",
+        "pos": "adv.",
+        "phonetic": "/ˈfriːkwəntli/",
+        "meaning": "經常地、頻繁地",
+        "example": "Check your account balance frequently to monitor your spending.",
+    },
 ]
 
 # 側邊欄選單
